@@ -9,3 +9,4 @@ This project demonstrates the usage of:
 - HTML ordered and unordered lists
 - HTML links and images
 - A simple website project structure
+- Fundamental CSS
